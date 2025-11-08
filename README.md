@@ -1,0 +1,2 @@
+# Chronic-Disease-Prediction-using-Machine-Learning-with-Data-Preprocessing-Handling
+Chronic Disease Prediction system using Machine Learning with advanced data preprocessing. The model handles missing values, outliers, and imbalanced data, applies feature selection, and predicts diseases accurately. A Flask web interface allows users to input data and receive prediction with recommended treatment.
